@@ -1,0 +1,12 @@
+@import "./reset.css";
+@import "./normalize.css";
+
+.df-jcc-aic { display: flex; justify-content: center; align-items: center; }
+.df-jcsa-aic { display: flex; justify-content: space-around; align-items: center; }
+.df-jcsb-aic { display: flex; justify-content: space-between; align-items: center; }
+.df-jcc { display: flex; justify-content: center; }
+.df-aic { display: flex; align-items: center; }
+.ta-c { text-align: center; }
+.mg-a { margin: 0 auto; }
+.cs-p { cursor: pointer; }
+

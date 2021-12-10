@@ -1,0 +1,21 @@
+{
+	"gongGao": [
+		{
+			"id": 101,
+			"title": "行政公告",
+			"time": "2021.4.1",
+			"srcList": [
+				"require('../../assets/img/ask.jpg')"
+			]
+		},
+		{
+			"id": 102,
+			"title": "财务公告",
+			"time": "2021.4.6",
+			"srcList": [
+				"https://fuss10.elemecdn.com/9/bb/e27858e973f5d7d3904835f46abbdjpeg.jpeg",
+				"https://fuss10.elemecdn.com/d/e6/c4d93a3805b3ce3f323f7974e6f78jpeg.jpeg"
+			]
+		}
+	]
+}
